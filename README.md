@@ -3,7 +3,7 @@
 ---
 <div align="center">
 
-![License](https://img.shields.io/github/license/MattDema/Networking_DT4SDN?style=for-the-badge&logoSize=auto&labelColor=blue&color=black)  ![Version](https://img.shields.io/badge/v2.5-RELEASE?style=for-the-badge&label=DT4SDN&labelColor=cyan&color=black)  ![Stars](https://img.shields.io/github/stars/MattDema/Networking_DT4SDN?style=for-the-badge&logo=github&logoColor=black&logoSize=auto&labelColor=gold&color=black)  ![Contributors](https://img.shields.io/github/contributors/MattDema/Networking_DT4SDN?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&label=contributors&labelColor=green&color=black)  ![Issues](https://img.shields.io/github/issues/MattDema/Networking_DT4SDN?style=for-the-badge&logoSize=auto&label=Issues&labelColor=red&color=black)  ![Repo Size](https://img.shields.io/github/repo-size/MattDema/Networking_DT4SDN?style=for-the-badge&labelColor=purple&color=black)  
+![License](https://img.shields.io/github/license/ADreLOI/NTWRKNG2-Project-DT4SDN?style=for-the-badge&logoSize=auto&labelColor=blue&color=black)  ![Version](https://img.shields.io/badge/v2.5-RELEASE?style=for-the-badge&label=DT4SDN&labelColor=cyan&color=black)  ![Stars](https://img.shields.io/github/stars/ADreLOI/NTWRKNG2-Project-DT4SDN?style=for-the-badge&logo=github&logoColor=black&logoSize=auto&labelColor=gold&color=black)  ![Contributors](https://img.shields.io/github/contributors/ADreLOI/NTWRKNG2-Project-DT4SDN?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&label=contributors&labelColor=green&color=black)  ![Issues](https://img.shields.io/github/issues/ADreLOI/NTWRKNG2-Project-DT4SDN?style=for-the-badge&label=Issues&labelColor=red&color=black)  ![Repo Size](https://img.shields.io/github/repo-size/ADreLOI/NTWRKNG2-Project-DT4SDN?style=for-the-badge&labelColor=purple&color=black)
 
 </div>
 ---
@@ -128,7 +128,7 @@ The Digital Twin continuously polls the Physical Twin for traffic statistics, st
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/MattDema/Networking_DT4SDN.git
+   git clone https://github.com/ADreLOI/NTWRKNG2-Project-DT4SDN.git
    cd Networking_DT4SDN
    ```
 
@@ -179,7 +179,7 @@ multipass shell comnetsemu-vm
    ```
 3. Clone the repository:
    ```bash
-   git clone https://github.com/MattDema/Networking_DT4SDN.git
+   git clone https://github.com/ADreLOI/NTWRKNG2-Project-DT4SDN.git
    ```
 
 **Setting up the Digital Twin:**
@@ -197,7 +197,7 @@ multipass shell digital-twin
    ```
 3. Clone the repository:
    ```bash
-   git clone https://github.com/MattDema/Networking_DT4SDN.git
+   git clone https://github.com/ADreLOI/NTWRKNG2-Project-DT4SDN.git
    ```
 
 <!--=========================================================================-->
