@@ -390,8 +390,8 @@ Networking_DT4SDN/
 | Team member | GitHub | LinkedIn | Email |
 | --- | --- | --- | --- |
 | Matthew De Marco | [@MattDema](https://github.com/MattDema) | [Matthew De Marco](https://www.linkedin.com/in/matt-de-marco/) | [matthew.demarco@studenti.unitn.it](mailto:matthew.demarco@studenti.unitn.it) |
-| Andrea Lo Iacono | [@ADreLOI](https://github.com/ADreLOI) | [LinkedIn](https://www.linkedin.com/in/adreloi) | [andrea.loiacono@studenti.unitn.it](mailto:andrea.loiacono@studenti.unitn.it) |
-| Jago Revrenna | [@jagorev](https://github.com/jagorev) | [LinkedIn](https://www.linkedin.com/in/jagorevrenna) | [jago.revrenna@studenti.unitn.it](mailto:jago.revrenna@studenti.unitn.it) |
+| Andrea Lo Iacono | [@ADreLOI](https://github.com/ADreLOI) | [Andrea Lo Iacono](https://www.linkedin.com/in/adreloi) | [andrea.loiacono@studenti.unitn.it](mailto:andrea.loiacono@studenti.unitn.it) |
+| Jago Revrenna | [@jagorev](https://github.com/jagorev) | [Jago Revrenna](https://www.linkedin.com/in/jagorevrenna) | [jago.revrenna@studenti.unitn.it](mailto:jago.revrenna@studenti.unitn.it) |
 
 > LinkedIn profile links are included only when confirmed, so the README never directs visitors to the wrong person.
 
