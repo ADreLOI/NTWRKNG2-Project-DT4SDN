@@ -389,7 +389,7 @@ Networking_DT4SDN/
 
 | Team member | GitHub | LinkedIn | Email |
 | --- | --- | --- | --- |
-| Matthew De Marco | [@MattDema](https://github.com/MattDema) | Profile link pending confirmation | [matthew.demarco@studenti.unitn.it](mailto:matthew.demarco@studenti.unitn.it) |
+| Matthew De Marco | [@MattDema](https://github.com/MattDema) | [Matthew De Marco](https://www.linkedin.com/in/matt-de-marco/) | [matthew.demarco@studenti.unitn.it](mailto:matthew.demarco@studenti.unitn.it) |
 | Andrea Lo Iacono | [@ADreLOI](https://github.com/ADreLOI) | [LinkedIn](https://www.linkedin.com/in/adreloi) | [andrea.loiacono@studenti.unitn.it](mailto:andrea.loiacono@studenti.unitn.it) |
 | Jago Revrenna | [@jagorev](https://github.com/jagorev) | [LinkedIn](https://www.linkedin.com/in/jagorevrenna) | [jago.revrenna@studenti.unitn.it](mailto:jago.revrenna@studenti.unitn.it) |
 
